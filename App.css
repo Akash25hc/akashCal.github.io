@@ -1,0 +1,171 @@
+#cal{
+  position: relative;
+  border: 2px solid red;
+  height: 360px;
+  width: 200px;
+  padding: 40px;
+  margin: 40px;
+}
+#text{
+  position: relative;
+height: 80px;
+width: 274px;
+right: 41px;
+bottom: 41px;
+}
+
+.A1{
+  position: relative;
+padding: 20px;
+  bottom: 28px;
+ right: 31px;
+
+ color: red;
+}
+.A2{
+  position: relative;
+padding: 20px;
+  bottom: 28px;
+ right: 15px;
+ color: blue;
+}
+.A3{
+  position: relative;
+padding: 18px;
+  bottom: 28px;
+ right: 5px;
+background-color: red;
+}
+.A4{
+  position: relative;
+padding: 20px;
+  bottom: 87px;
+ left:  180px;
+ color:green;
+
+}
+
+
+.A5{
+  position: relative;
+padding: 20px;
+  bottom: 77px;
+right: 30px;
+color:green;
+}
+.A6{
+  position: relative;
+padding: 20px;
+  bottom: 77px;
+ right: 12px;
+color:green;
+}
+.A7{
+  position: relative;
+padding: 20px;
+  bottom: 77px;
+ left: 5px;
+color:green;
+}
+.A8{
+  position: relative;
+padding: 20px;
+  bottom: 137px;
+ left:  177px;
+ color:blue;
+}
+
+
+.A9{
+  position: relative;
+padding: 20px;
+  bottom: 124px;
+right: 29px;
+color:blue;
+}
+.A10{
+  position: relative;
+padding: 20px;
+  bottom: 124px;
+ right: 13px;
+ color: blue;
+}
+.A11{
+  position: relative;
+padding: 20px;
+  bottom: 125px;
+ left: 5px;
+color: blue;
+}
+.A12{
+  position: relative;
+padding: 20px;
+  bottom: 184px;
+ left:  179px;
+ color: green;
+}
+
+.A13{
+  position: relative;
+padding: 20px;
+  bottom: 173px;
+ right: 29px;
+ color: green;
+}
+.A14{
+  position: relative;
+padding: 20px;
+  bottom: 172px;
+ right: 16px;
+color: green;
+}
+.A15{
+  position: relative;
+padding: 20px;
+  bottom: 174px;
+ left: 4px;
+color: green;
+
+}
+.A16{
+  position: relative;
+padding: 20px;
+  bottom: 234px;
+ left:  179px;
+ color: blue;
+}
+
+
+.A17{
+  position: relative;
+padding: 20px;
+  bottom: 224px;
+ right: 29px;
+ color: blue;
+}
+.A18{
+  position: relative;
+padding: 20px;
+  bottom: 224px;
+ right: 17px;
+ color: blue;
+}
+.A19{
+  position: relative;
+padding: 20px;
+  bottom: 224px;
+ color: blue;
+}
+.A20{
+  position: relative;
+padding: 20px;
+  bottom: 284px;
+ left:  179px;
+ background-color:teal;
+}
+
+
+
+
+    
+
